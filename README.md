@@ -1,6 +1,6 @@
 # S2-02A-Node.js
 
-Passo a passo 
+Passo a passo  
 
 1) entrar na pasta onde o node-env esta localizado (o meu esta dentro da raiz)
    ex: cd nodejs-env/
